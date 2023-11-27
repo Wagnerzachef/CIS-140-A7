@@ -345,5 +345,4 @@ sub processNoInsurance{
     close $noInsuranceFileHandle;
 }
 
-
 main();
